@@ -15,3 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # jokenpo
+
+https://github.com/diegofgl/jokenpo/assets/122054408/20885f84-a23f-4da8-8276-570ac6dd6257
+
