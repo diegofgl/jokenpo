@@ -16,5 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # jokenpo
 
-https://github.com/diegofgl/jokenpo/assets/122054408/5a570f8b-b75f-42f7-a3ca-0ebb7479f809
+![GravacaodeTela2024-01-26as21 33 00-ezgif com-video-to-gif-converter](https://github.com/diegofgl/jokenpo/assets/122054408/9dfb2f98-ef7d-4eb9-a27c-6923c8171ce1)
 
