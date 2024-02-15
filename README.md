@@ -1,20 +1,22 @@
-# jokenpo
+# 🎮 JokenPo - O Jogo de Pedra, Papel e Tesoura em Flutter!
 
-A new Flutter project.
+Este é um aplicativo móvel desenvolvido em Flutter que traz a diversão clássica do jogo de pedra, papel e tesoura para o seu dispositivo!
 
-## Getting Started
+✨ Recursos:
 
-This project is a starting point for a Flutter application.
+Interface de usuário intuitiva e amigável.
+Escolha entre pedra, papel e tesoura com simples toques na tela.
+Veja a escolha do computador e descubra o resultado instantaneamente.
+Mensagens dinâmicas informando se você ganhou, perdeu ou empatou.
 
-A few resources to get you started if this is your first Flutter project:
+🔧 Tecnologias utilizadas:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter: Um framework de desenvolvimento de aplicativos móveis multiplataforma.
+- Dart: A linguagem de programação utilizada para escrever o código.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# jokenpo
+📱 Compatibilidade:
+
+Disponível para dispositivos Android e iOS.
 
 ![GravacaodeTela2024-01-26as21 33 00-ezgif com-video-to-gif-converter](https://github.com/diegofgl/jokenpo/assets/122054408/9dfb2f98-ef7d-4eb9-a27c-6923c8171ce1)
 
